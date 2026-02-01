@@ -1,15 +1,19 @@
 # Jardí Palautordera - Pla de Jardineria
 
-Aquest repositori conté el Pla de Jardineria per a Santa Maria de Palautordera (Baix Montseny), incloent:
+Aquest repositori conté el Pla de Jardineria per a Santa Maria de Palautordera (Baix Montseny).
 
-1.  **Dashboard Interactiu:** Una visualització web de les 125 varietats de flors proposades, organitzades per zones de llum i vent.
-2.  **Document de Pla:** El fitxer Markdown original amb tots els detalls, enllaços d'Amazon i imatges corregides de Wikimedia Commons.
-3.  **Scripts de Gestió:** Eines de Python per automatitzar la correcció d'imatges i la generació del dashboard.
+## 🌸 [Veure el Dashboard Interactiu](https://cescroca1976.github.io/jardi-palautordera/)
 
-## Com veure el Dashboard
-Pots veure el dashboard en línia a través de GitHub Pages (activa'l a Settings > Pages). Una vegada activat, serà accessible a la URL del teu usuari.
+Hem seleccionat **125 varietats de flors** organitzades per zones segons les seves necessitats de llum i protecció del vent.
 
 ## Contingut del Repositori
-*   `index.html`: El dashboard principal.
-*   `garden_plan.md`: El pla detallat en format Markdown.
-*   `scripts/`: Scripts de Python per manteniment.
+
+*   `index.html`: El codi del dashboard web (generat automàticament).
+*   `pla_jardineria_palautordera_fixed.md`: El pla detallat original amb enllaços de compra a Amazon i imatges.
+*   `generate_dashboard.py`: Script Python que converteix el pla Markdown en la web HTML.
+*   `fix_images.py`: Script Python que cerca i corregeix automàticament enllaços d'imatges trencats a Wikimedia Commons.
+
+## Automatització
+
+Aquest projecte utilitza GitHub Actions per publicar automàticament qualsevol canvi al dashboard.
+
