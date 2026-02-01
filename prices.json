@@ -1,0 +1,502 @@
+{
+    "Hort\u00e8nsia": {
+        "seed": 2.99,
+        "plant": 0.83
+    },
+    "Cam\u00e8lia": {
+        "seed": 2.99,
+        "plant": 0.83
+    },
+    "F\u00facsia": {
+        "seed": 0.58,
+        "plant": 15.5
+    },
+    "Beg\u00f2nia": {
+        "seed": 0.51,
+        "plant": 15.5
+    },
+    "Ciclamen": {
+        "seed": 0.65,
+        "plant": 15.5
+    },
+    "Astilbe": {
+        "seed": 0.79,
+        "plant": 15.5
+    },
+    "Digital": {
+        "seed": 0.59,
+        "plant": 15.5
+    },
+    "Impatiens": {
+        "seed": 1.45,
+        "plant": 15.5
+    },
+    "Hosta": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Vinca minor": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Pr\u00edmula": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Aquilegia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Lobelia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Calceolaria": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Trillium": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Convallaria": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Saxifraga": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Pulmonaria": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Bergenia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Brunnera macrophylla": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Torenia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Anemone de bosc": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Dicentra": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Heleborus": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Pieris japonica": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Rosa": {
+        "seed": 3.0,
+        "plant": 14.5
+    },
+    "Gerani": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Clem\u00e0tide": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Phlox paniculata": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "S\u00e0lvia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Campaneta": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Heuchera": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Delphinium": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Lupinus": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Monarda": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Astrantia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Echinacea": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Rudbeckia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Agastache": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Penstemon": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Scabiosa": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Veronicastrum": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Aconitum": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "An\u00e8mone japonesa": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Thalictrum": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Trollius": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Meconopsis": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Ligularia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Chelone": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Physostegia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Lavanda": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Roman\u00ed": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Pet\u00fania": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Z\u00ednnia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Girasol": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Gaz\u00e0nia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Cal\u00e8ndula": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Clavell de moro": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Hibisc": {
+        "seed": 3.0,
+        "plant": 14.5
+    },
+    "Baladre": {
+        "seed": 3.0,
+        "plant": 14.5
+    },
+    "Buguenv\u00edl\u00b7lea": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Lantana": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Verbena": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Coreopsis": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Gaillardia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Aster": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Crisantem": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Margarida del Cap": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Gitaneta": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Malva-rosa": {
+        "seed": 3.0,
+        "plant": 14.5
+    },
+    "Verdolaga de flor": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Cosmos": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "D\u00e0lia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Conillet": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Pentas": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Pe\u00f2nia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Lliri": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Gladiol": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "P\u00e8sol d'olor": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Ranuncle": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Astrom\u00e8lia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Lisianthus": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Paniculada": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Encaix de reina": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Rosella": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Blavet": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Cabells de Venus": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Clarkia amoena": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Godetia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Flor de papallona": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Baby blue eyes": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Morning glory": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Ulls de poeta": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Dipladenia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Jazm\u00edn de Madagascar": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Flor de cera": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Flor de la passi\u00f3": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Platycodon": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Flor de mico": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Gloxinia": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Gaura": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Milfulles": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Herba de l'enamorat": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Margarida de paret": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Estepa": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Curri": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Espernallac": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Valeriana vermella": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Talla-focs": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Nepeta": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "S\u00e0lvia russa": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Flor de paper": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Verbena bonariensis": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Neu d'estiu": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Alyssum": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Aubrieta": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Iberis sempervirens": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Phlox de molsa": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Clavellina": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Festuca blava": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Stipa tenuissima": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Echinops": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Eryngium": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Erigeron speciosus": {
+        "seed": 1.99,
+        "plant": 10.5
+    },
+    "Limonium latifolium": {
+        "seed": 1.99,
+        "plant": 10.5
+    }
+}
